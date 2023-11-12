@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile! 🚀
 
-I'm Lochan Basyal, and I'm passionate about leveraging technology to solve real-world problems. My journey began in 2011 when I embarked on my engineering adventure. Since then, I've dedicated my career to exploring and applying cutting-edge technologies in various domains.
+I'm Lochan Basyal, and I'm passionate about leveraging technology to solve real-world problems. My engineering journey began in 2011. Since then, I've dedicated my career to exploring and applying cutting-edge technologies in various domains.
 
 ## Education 📚
 
-I hold a Master of Science degree in Computer Engineering, Artificial Intelligence from [Stevens Institute of Technology](https://www.stevens.edu/). My academic background laid the foundation for my journey into the world of AI, where I've focused on solving complex problems and developing AI-powered products.
+I hold a Master of Science degree in Computer Engineering and Artificial Intelligence from [Stevens Institute of Technology](https://www.stevens.edu/). My academic background laid the foundation for my journey into the world of AI, where I've focused on solving complex problems and developing AI-powered products.
 
 ## Areas of Expertise 🧠
 
